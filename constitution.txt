@@ -1,0 +1,77 @@
+The Constitution of Electronics Club
+
+ARTICLE I – Name
+
+Section 1 – The name of this club shall be Electronics Club
+
+ARTICLE II – Objectives and Activities
+
+Section 1 – General objectives of this club shall be:
+
+  a. Teach students electronics techniques
+	b. Engage in interactive projects that teach techniques in electronics
+  c. Teach general conduct in a lab environment
+  d. Instill a general interest in electronics concepts and Electronics at TJ
+
+ARTICLE III – Officers
+
+Section 1 - The "officer core" shall be made up of one President and 4-5 additional similarly ranked "lower officers"
+
+  a. The officer core shall be composed of at least one non-senior member and at least one senior member
+  b. All members of the officer core must be currently taking or have taken "Advanced Analog Electronics" or "Advanced Digital Electronics"
+    1. Any senior members of the core must have taken Analog and Digital
+  c. The president must be a senior and the president must be in the Microelectronics Senior Tech Lab
+
+
+Section 2 - The duties of the officer core
+
+  a. The officer core shall plan activities and lectures for each weekly meeting of Electronics Club
+  b. The officer core shall lead breadboarding activities and/or lectures for each weekly meeting of Electronics Club
+  b. The officer core shall be responsible for lab upkeep during weekly meetings of Electronics Club
+  c. The officer core shall be responsible for the upkeep, distribution, and advertising of both the "Freshman Electronics at TJ Guide" and the "General Electronics at TJ Guide"
+  d. The officer core shall be responsible for the promotion of the Analog and Digital classes
+Section 3 - The president upon the ratification of this document is "Ryan Burns." The remaining officer core are: "Griffith Heller, Cedric Bernard, Eric Malani, Ahad Rizvi and Ashish Tondawalker"
+
+ARTICLE IV - Appointment of new officers
+  Section 1 - New officers shall be appointed by the outgoing officer core.
+
+    a. The outgoing officer core shall propose a list of names equal in amount to the current officer core
+    b. The outgoing officer core shall propose one of these names to serve as the next president
+    c. The new officer core shall meet all of the qualifications put forth in Article III
+    d. The outgoing officer core may choose to nominate any member of the club who has attended at least three meetings
+    e. The outgoing officer core may choose to nominate themselves
+    f. The officer core, before they begin the nomination process, shall make it known to the club that they are considering candidates for the officer core and all interested parties shall come forward.
+
+  Section 2 - Ratification
+
+    a. The outgoing officer core shall approve the new officer core with a supermajority(All but one must approve) vote
+    b. The vote can be vetoed by the president
+      1. In the case of a veto the process of appointment starts again
+    c. Once a president approves of a new officer core, the appointment process cannot restarted without a supermajority vote of the officer core
+    d. Once an officer core is selected, their names shall be made known to the members of the club.
+    e. The new officer core must be approved by a majority of the general members of the club
+      1. If the new officer core does not pass approval by the voting majority, the appointment process starts again
+      2. Only the officer core, and members of the club who have attended at least three meetings may vote.
+      3. The vote must be held on the next club meeting after the officer core has been approved by the president.
+    f. Once the officer core is approved by a voting majority of the general club, the appointment process may not restart without a majority vote of the general members of the club.
+
+Section 3 - Lab Director
+
+    a. If a new school year begins without an appointed and ratified officer core, the lab director shall choose the officer core.
+
+
+ARTICLE V - Validity and Amendments
+  Section 1. This constitution shall only be valid while Mr. Bell is the sole Electronics Lab director
+  Section 2. Amendments may only be proposed by the officer core
+  Section 3. Amendments must be approved by a supermajority of the officer core
+  Section 4. Amendments must be approved by a voting majority of general members.
+
+ARTICLE VI - Ratification
+  Section 1. This constitution must be approved by a supermajority of the officer core
+  Section 2. This constitution must be approved by a voting majority of the general members of the club
+  Section 3. Both approvals shall be made for this constitution to be ratified
+
+ARTICLE VII - Voting
+  Section 1. Any actions that call for a general election must be carried out as per this Article
+  Section 2. The officers may decide any appropriate meeting to carry out the election, unless a specific provision in this document calls for a more specific meeting
+  Section 3. Only the current officer core, and members of the club who have attended at least three meetings may vote.
