@@ -65,6 +65,7 @@ ARTICLE V - Validity and Amendments
   Section 2. Amendments may only be proposed by the officer core
   Section 3. Amendments must be approved by a supermajority of the officer core
   Section 4. Amendments must be approved by a voting majority of general members.
+  Section 5. This document shall be maintained publically on some sort of easily accessible and revision-trackable repository such as GitHub or Google Docs
 
 ARTICLE VI - Ratification
   Section 1. This constitution must be approved by a supermajority of the officer core
